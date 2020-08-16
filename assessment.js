@@ -60,11 +60,11 @@
   };
 
   const answers = [
-    '{userName}んよかところは声ばい。{userName}ん特徴的な声は皆ば惹きつけ、心に残る。  <br > The nice thing about {userName} is the voice. The characteristic voice of {userName} is attractive and memorable. <br>{userName}のよきところは声なり。{userName}の特徴やうなる声はみな惹きつけ、心に残る。', 
+    '{userName}んよかところは声ばい。{userName}ん特徴的な声は皆ば惹きつけ、心に残る。  <br > The nice point of {userName} is the voice. The characteristic voice of {userName} is attractive and memorable. <br>{userName}のよきところは声なり。{userName}の特徴やうなる声はみな惹きつけ、心に残る。', 
     
-    '{userName}んよかところはまなざしばい。{userName}に見つめられた人は、気になって仕方がなかやろう。 <br >The good thing about {userName} is the look. Those who are stared at by {userName} can not help but wonder. ',
+    '{userName}んよかところはまなざしばい。{userName}に見つめられた人は、気になって仕方がなかやろう。 <br >The good point of {userName} is the look. Those who are stared at by {userName} can not help but wonder. ',
     
-    '{userName}んよかところは情熱ばい。{userName}ん情熱に周りん人は感化さるる。 <br >The good thing about {userName} is passion. The passion of {userName} inspires others. ',
+    '{userName}んよかところは情熱ばい。{userName}ん情熱に周りん人は感化さるる。 <br >The good point of {userName} is passion. The passion of {userName} inspires others. ',
     
     '{userName}んよかところは厳しさばい。{userName}ん厳しさがもんごとばいつも成功に導く。 <br >The nice thing about {userName} is the rigor. The severity of {userName} always leads to success. ',
     
