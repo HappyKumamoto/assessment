@@ -91,6 +91,8 @@
     '{userName}んよかところはそん全てばい。ありんままん{userName}自身がよかところなんや。 <br >One of the good thing about {userName} is that all. You are what you are. ',
     
     '{userName}んよかところは自制心ばい。やばかて思うたときにしっかと衝動ば抑えらるる{userName}が皆から評価されとる。 <br > One of the nice thing about {userName} is self-control. You are praised for ability to control your urges in times of danger. ' ,
+    
+    '{userName}んよかところは優しさばい。あたん優しか雰囲気や立ち振る舞いに多うん人が癒やされとる。<br> One of the nice point of {userName} is kindness. Many people have been healed by your gentle atmosphere and behavior. '
   ];
 
 
@@ -115,9 +117,9 @@
   }
 
   // テストコード
-  console.assert(
-      assessment('太郎') ===  '{userName}んよかところは決断力ばい。{userName}がする決断にいつも助けらるる人がおる。 <br >The good thing about {userName} is that your deterministic. {userName} helps people by making decisions. <br>{userName}のよきところは決断力なり。{userName}のする決断に日ごろ助けらるる人あり。',     '診断結果ん文言ん特定ん部分ば名前に置き換ゆる処理が正しゅうなかとです。'
-  );
+  //console.assert(
+      //assessment('太郎') ===  '{userName}んよかところは決断力ばい。{userName}がする決断にいつも助けらるる人がおる。 <br >The good thing about {userName} is that your deterministic. {userName} helps people by making decisions. <br>{userName}のよきところは決断力なり。{userName}のする決断に日ごろ助けらるる人あり。',     '診断結果ん文言ん特定ん部分ば名前に置き換ゆる処理が正しゅうなかとです。'
+  //);
   console.assert(
       assessment('太郎') === assessment('太郎'),
      '入力が同じ名前なら同じ診断結果ば出力する処理が正しゅうなかとです。'
