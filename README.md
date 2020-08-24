@@ -1,4 +1,3 @@
 # assessment
 よかところ診断
-![assessment](https://user-images.githubusercontent.com/67646107/91053153-63447800-e65d-11ea-93bf-384f8799db48.gif)
-
+![assessnebt](https://user-images.githubusercontent.com/67646107/91057919-d0a6d780-e662-11ea-8584-0092ef1f7af7.gif)
