@@ -90,7 +90,7 @@
     
    '{userName}んよかところは自制心ばい。やばかて思うたときにしっかと衝動ば抑えらるる{userName}が皆から評価されとる。 <br > One of the good point of {userName} is self-control. You are praised for ability to control your urges in times of danger. ' ,
     
-    '{userName}んよかところは優しさばい。あたん優しか雰囲気や立ち振る舞いに多うん人が癒やされとる。<br> One of the good point of {userName} is kindness. Many people have been healed by your gentle atmosphere and behavior. '
+    '{userName}んよかところは優しさばい。あたん優しか雰囲気や立ち居振る舞いに多うん人が癒やされとる。<br> One of the good point of {userName} is kindness. Many people have been healed by your gentle atmosphere and behavior. '
   ];
   /**
    * 名前の文字列を渡すと診断結果を返す関数
